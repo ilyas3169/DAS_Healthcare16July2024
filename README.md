@@ -9,5 +9,4 @@ This is the matlab simulation code which contains the Matlab code and data files
 4) Allinone10July2024MaxMax_RespLatency_DAS.m (TotalTRespMinMax1)    % The phrase within small brackets is the name of variable/parameter which is used to hold the final response latencies for LFT method 
 5) AllinOne10July2024BSMversionV5_DAS.m   (averages_FCFS)             % The phrase within small brackets is the name of variable/parameter which is used to hold the final response latencies for BSM method
                                                                       % For obtaining the response latencies for MACTER, and FVNET methods, we have used the values shared by their developers during the analysis section of the published work. 
-### Step 2: We ploted the Probablilty Density Function (PDF) using the above obtained values of response latencies to confirm the average/mean response latency exhibited by each considered method. The matlab file that is used for calculating the <br/>
-PDF is: PDF_DAS_AllOtherMethods19April2024V3.m
+### Step 2: We ploted the Probablilty Density Function (PDF) using the above obtained values of response latencies to confirm the average/mean response latency exhibited by each considered method. The matlab file that is used for calculating the PDF is: PDF_DAS_AllOtherMethods19April2024V3.m
