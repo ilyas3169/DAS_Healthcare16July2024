@@ -5,4 +5,6 @@ This is the matlab simulation code which contains the Matlab code and data files
 2) AllinOne27Sep2023DAS.m                          % This is the matlab file that simulates the DAS resource allocation and task schedueling method. These simulations give us a probable and approximate values of response latencies. <br/>
                                                    % These achieved response latencies are then recorded in an excel sheet. <br/>
                                                    % THe record in excel sheets are then used to plot the response latencies versus tasks.... <br/>
-3)    
+3) AllinOne10July2024MinMinversionV6_DAS.m
+4) Allinone10July2024MaxMax_RespLatency_DAS.m
+5) AllinOne10July2024BSMversionV5_DAS.m   
