@@ -8,3 +8,4 @@ This is the matlab simulation code which contains the Matlab code and data files
 3) AllinOne10July2024MinMinversionV6_DAS.m (averages_Max)           % The phrase within small brackets is the name of variable/parameter which is used to hold the final response latencies for SFT method
 4) Allinone10July2024MaxMax_RespLatency_DAS.m (TotalTRespMinMax1)    % The phrase within small brackets is the name of variable/parameter which is used to hold the final response latencies for LFT method 
 5) AllinOne10July2024BSMversionV5_DAS.m   (averages_FCFS)             % The phrase within small brackets is the name of variable/parameter which is used to hold the final response latencies for BSM method
+                                                                      % For obtaining the response latencies for MACTER, and FVNET methods, we have used the values shared by their developers during the analysis section of the published work. 
